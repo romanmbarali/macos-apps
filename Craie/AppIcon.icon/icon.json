@@ -1,0 +1,9 @@
+{
+  "fill" : { "solid" : "srgb:0.40000,0.15000,0.08000,1.00000" },
+  "groups" : [
+    { "layers" : [ { "image-name" : "picto.png", "name" : "picto", "glass" : true } ],
+      "shadow" : { "kind" : "layer-color", "opacity" : 0.5 }, "translucency" : { "enabled" : true, "value" : 0.25 } },
+    { "layers" : [ { "image-name" : "roche.png", "name" : "roche", "glass" : false } ] }
+  ],
+  "supported-platforms" : { "squares" : "shared" }
+}
